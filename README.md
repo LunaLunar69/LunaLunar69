@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/irving-cesar-luna-ángeles-55274b273/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/irvin_luna24/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -32,15 +34,17 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LunaLunar69/LunaLunar69/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LunaLunar69/LunaLunar69/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LunaLunar69/LunaLunar69/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/LunaLunar69/LunaLunar69/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmMzYXpia3ZtMG9hbXh5MGR4a2UxamF2cHo1MHR3aWhocmhpOTNqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif"  />
+</div>
 
 ###
 
